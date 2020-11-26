@@ -69,7 +69,7 @@
 				"Timeout": "25",
 				"Code": {
 					"S3Bucket": "amplify-onlinestoreaws-prod-200856-deployment",
-					"S3Key": "amplify-builds/processPayment-473978556e416e2b4737-build.zip"
+					"S3Key": "amplify-builds/processPayment-5256474a6c7730713150-build.zip"
 				}
 			}
 		},
