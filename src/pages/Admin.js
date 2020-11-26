@@ -39,7 +39,7 @@ const Admin = () => {
                 level: 'public',
                 contentType: file.type
             });
-            // Retrieve the uploaded file to display
+            // Retrieve the uploaded file to display it
             const image = await Storage.get(key, { level: 'public' })
             setImage(image);
             setBookDetails({ ...bookDetails, image: url });
